@@ -83,3 +83,26 @@
 [2025-11-10 17:47:51] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
 [2025-11-10 17:48:21] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
 [2025-11-10 17:48:51] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:56:01] [INFO] NetworkMonitor initialized - Log file: logs/server_monitor.log
+[2025-11-10 17:56:01] [INFO] Periodic monitoring started with 30s interval
+[2025-11-10 17:56:15] [CONNECTION] Client-1 connected from 127.0.0.1:54820 | Total active: 1
+[2025-11-10 17:56:15] [ALERT] New client connected: Client-1
+[2025-11-10 17:56:25] [CONNECTION] Client-2 connected from 127.0.0.1:54822 | Total active: 2
+[2025-11-10 17:56:25] [ALERT] New client connected: Client-2
+[2025-11-10 17:56:31] [MONITORING] Periodic check | Active clients: 2 | API failures: 0
+[2025-11-10 17:56:32] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-10 17:56:32] [API_SUCCESS] Weather API fetch successful | Broadcast #1 completed: 2 successful, 0 failed, 2 total clients
+[2025-11-10 17:57:01] [MONITORING] Periodic check | Active clients: 2 | API failures: 0
+[2025-11-10 17:57:02] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:57:02] [API_SUCCESS] Weather API fetch successful | Broadcast #2 completed: 2 successful, 0 failed, 2 total clients
+[2025-11-10 17:57:31] [MONITORING] Periodic check | Active clients: 2 | API failures: 0
+[2025-11-10 17:57:32] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:57:32] [API_SUCCESS] Weather API fetch successful | Broadcast #3 completed: 2 successful, 0 failed, 2 total clients
+[2025-11-10 17:58:01] [MONITORING] Periodic check | Active clients: 2 | API failures: 0
+[2025-11-10 17:58:01] [DISCONNECTION] Client-2 disconnected from 127.0.0.1:54822 | Duration: 96s | Total active: 1
+[2025-11-10 17:58:01] [ALERT] Client disconnected: Client-2
+[2025-11-10 17:58:02] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:58:02] [API_SUCCESS] Weather API fetch successful | Broadcast #4 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-10 17:58:09] [DISCONNECTION] Client-1 disconnected from 127.0.0.1:54820 | Duration: 114s | Total active: 0
+[2025-11-10 17:58:09] [ALERT] Client disconnected: Client-1
+[2025-11-10 17:58:29] [INFO] NetworkMonitor shutting down...

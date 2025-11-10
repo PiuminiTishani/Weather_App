@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Application - Group 03</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🌤️ Weather Application</h1>
+            <p class="subtitle">Network Programming - Group 03</p>
+        </header>
+
+        <div class="status-bar">
+            <div class="status-item">
+                <span class="status-label">Connection:</span>
+                <span id="connectionStatus" class="status-disconnected">Disconnected</span>
+            </div>
+            <div class="status-item">
+                <span class="status-label">Subscription:</span>
+                <span id="subscriptionStatus" class="status-inactive">Not Subscribed</span>
+            </div>
+        </div>
+
+        <div class="connection-panel card">
+            <h2>Connection Settings</h2>
+            <div class="input-group">
+                <label for="serverHost">Server Host:</label>
+                <input type="text" id="serverHost" value="localhost" placeholder="localhost">
+            </div>
+            <div class="input-group">
+                <label for="serverPort">Server Port:</label>
+                <input type="text" id="serverPort" value="8080" placeholder="8080">
+            </div>
+            <button id="connectBtn" class="btn btn-primary">Connect to Server</button>
+            <button id="disconnectBtn" class="btn btn-secondary" disabled>Disconnect</button>
+        </div>
+
+        <div class="weather-panel card">
+            <h2>Get Weather Information</h2>
+            <div class="input-group">
+                <label for="cityInput">City Name:</label>
+                <input type="text" id="cityInput" placeholder="Enter city name (e.g., London, Tokyo)">
+            </div>
+            <button id="getWeatherBtn" class="btn btn-primary" disabled>Get Weather</button>
+            <button id="subscribeBtn" class="btn btn-success" disabled>Subscribe to Alerts</button>
+            <button id="unsubscribeBtn" class="btn btn-warning" disabled>Unsubscribe</button>
+            <button id="listClientsBtn" class="btn btn-info" disabled>List Clients</button>
+        </div>
+
+        <div class="weather-display card" id="weatherDisplay" style="display: none;">
+            <h2>Current Weather</h2>
+            <div class="weather-info">
+                <div class="weather-icon" id="weatherIcon">🌤️</div>
+                <div class="weather-details">
+                    <h3 id="cityName">--</h3>
+                    <div class="weather-stat">
+                        <span class="stat-label">Temperature:</span>
+                        <span id="temperature" class="stat-value">--°C</span>
+                    </div>
+                    <div class="weather-stat">
+                        <span class="stat-label">Condition:</span>
+                        <span id="condition" class="stat-value">--</span>
+                    </div>
+                    <div class="weather-stat">
+                        <span class="stat-label">Humidity:</span>
+                        <span id="humidity" class="stat-value">--%</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="alerts-panel card">
+            <h2>Weather Alerts & Messages</h2>
+            <div id="alertsContainer" class="alerts-container">
+                <p class="no-alerts">No alerts yet. Subscribe to receive weather alerts!</p>
+            </div>
+        </div>
+
+        <div class="log-panel card">
+            <h2>Activity Log</h2>
+            <div id="logContainer" class="log-container"></div>
+            <button id="clearLogBtn" class="btn btn-small">Clear Log</button>
+        </div>
+    </div>
+
+    <footer>
+        <p>Weather Application - Network Programming Project</p>
+        <p>Demonstrates: WebSocket Communication, Real-time Updates, API Integration</p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
