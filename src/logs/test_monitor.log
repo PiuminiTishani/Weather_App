@@ -1,0 +1,16 @@
+[2025-11-10 16:50:58] [INFO] NetworkMonitor initialized - Log file: logs/test_monitor.log
+[2025-11-10 16:50:58] [INFO] Periodic monitoring started with 10s interval
+[2025-11-10 16:50:58] [API_SUCCESS] Weather API fetch successful | Fetched weather for London - Temperature: 25°C
+[2025-11-10 16:51:00] [API_FAILURE] Weather API fetch failed | Reason: Connection timeout to weather service | Total failures: 1
+[2025-11-10 16:51:00] [ALERT] Weather API fetch failed: Connection timeout to weather service
+[2025-11-10 16:51:02] [API_SUCCESS] Weather API fetch successful | Fetched weather for New York - Temperature: 18°C
+[2025-11-10 16:51:08] [MONITORING] Periodic check | Active clients: 0 | API failures: 1
+[2025-11-10 16:51:14] [INFO] NetworkMonitor shutting down...
+[2025-11-10 16:55:26] [INFO] NetworkMonitor initialized - Log file: logs/test_monitor.log
+[2025-11-10 16:55:26] [INFO] Periodic monitoring started with 10s interval
+[2025-11-10 16:55:26] [API_SUCCESS] Weather API fetch successful | Fetched weather for London - Temperature: 25°C
+[2025-11-10 16:55:28] [API_FAILURE] Weather API fetch failed | Reason: Connection timeout to weather service | Total failures: 1
+[2025-11-10 16:55:28] [ALERT] Weather API fetch failed: Connection timeout to weather service
+[2025-11-10 16:55:30] [API_SUCCESS] Weather API fetch successful | Fetched weather for New York - Temperature: 18°C
+[2025-11-10 16:55:36] [MONITORING] Periodic check | Active clients: 0 | API failures: 1
+[2025-11-10 16:55:42] [INFO] NetworkMonitor shutting down...

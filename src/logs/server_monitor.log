@@ -1,0 +1,51 @@
+[2025-11-10 17:12:41] [INFO] NetworkMonitor initialized - Log file: logs/server_monitor.log
+[2025-11-10 17:12:41] [INFO] Periodic monitoring started with 30s interval
+[2025-11-10 17:13:11] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:13:12] [API_FAILURE] Weather API fetch failed | Reason: Invalid API key - returning mock data | Total failures: 1
+[2025-11-10 17:13:12] [ALERT] Weather API fetch failed: Invalid API key - returning mock data
+[2025-11-10 17:13:41] [MONITORING] Periodic check | Active clients: 0 | API failures: 1
+[2025-11-10 17:13:42] [API_FAILURE] Weather API fetch failed | Reason: Invalid API key - returning mock data | Total failures: 2
+[2025-11-10 17:13:42] [ALERT] Weather API fetch failed: Invalid API key - returning mock data
+[2025-11-10 17:13:58] [INFO] NetworkMonitor shutting down...
+[2025-11-10 17:18:20] [INFO] NetworkMonitor initialized - Log file: logs/server_monitor.log
+[2025-11-10 17:18:20] [INFO] Periodic monitoring started with 30s interval
+[2025-11-10 17:18:46] [CONNECTION] Client-1 connected from 127.0.0.1:53532 | Total active: 1
+[2025-11-10 17:18:46] [ALERT] New client connected: Client-1
+[2025-11-10 17:18:50] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-10 17:18:51] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-10 17:18:51] [API_SUCCESS] Weather API fetch successful | Broadcast #1 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-10 17:19:20] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-10 17:19:21] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:19:21] [API_SUCCESS] Weather API fetch successful | Broadcast #2 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-10 17:19:50] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-10 17:19:51] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:19:51] [API_SUCCESS] Weather API fetch successful | Broadcast #3 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-10 17:20:20] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-10 17:20:21] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:20:21] [API_SUCCESS] Weather API fetch successful | Broadcast #4 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-10 17:20:32] [DISCONNECTION] Client-1 disconnected from 127.0.0.1:53532 | Duration: 105s | Total active: 0
+[2025-11-10 17:20:32] [ALERT] Client disconnected: Client-1
+[2025-11-10 17:20:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:20:51] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-10 17:21:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:21:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:22:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:22:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:23:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:23:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:24:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:24:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:25:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:25:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:26:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:26:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:27:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:27:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:28:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:28:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:29:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:29:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:30:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:30:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:31:20] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
+[2025-11-10 17:31:50] [MONITORING] Periodic check | Active clients: 0 | API failures: 0
