@@ -9,10 +9,10 @@ import java.util.concurrent.*;
  * MEMBER 1 - Server Setup & Multithreaded Client Handling
  * 
  * Concepts Demonstrated:
- * - Socket Programming (ServerSocket)
- * - Multithreading (ExecutorService)
- * - Concurrent client handling
- * - Thread-safe collections
+ * -Socket Programming (ServerSocket)
+ * -Multithreading (ExecutorService)
+ * -Concurrent client handling
+ * -Thread-safe collections
  */
 public class WeatherServer {
     private static final int PORT = 8080;
@@ -41,8 +41,7 @@ public class WeatherServer {
         this.networkMonitor.startPeriodicMonitoring(30);
         
         System.out.println("╔════════════════════════════════════════════╗");
-        System.out.println("║   Weather Server - Network Programming    ║");
-        System.out.println("║             Group 03                       ║");
+        System.out.println("║  Multi-Client Weather Broadcasting System ║");
         System.out.println("╚════════════════════════════════════════════╝");
         System.out.println("Server started on port: " + port);
         System.out.println("Thread pool size: " + THREAD_POOL_SIZE);
@@ -50,7 +49,7 @@ public class WeatherServer {
     }
     
     /**
-     * Start accepting client connections
+     *Start accepting client connections
      */
     public void start() {
         // Start weather update broadcaster in background
@@ -185,7 +184,7 @@ public class WeatherServer {
                 // Send welcome message
                 out.println("╔════════════════════════════════════════════╗");
                 out.println("║     Welcome to Weather Server!             ║");
-                out.println("║     Network Programming - Group 03         ║");
+                out.println("║  Multi-Client Weather Broadcasting System ║");
                 out.println("╚════════════════════════════════════════════╝");
                 out.println("\nAvailable commands:");
                 out.println("  weather <city>  - Get weather for a city");

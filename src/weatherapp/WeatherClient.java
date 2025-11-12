@@ -201,10 +201,8 @@ public class WeatherClient {
      */
     private static void printBanner() {
         System.out.println("\n╔════════════════════════════════════════════╗");
-        System.out.println("║                                            ║");
         System.out.println("║        Weather Client Application         ║");
-        System.out.println("║      Network Programming - Group 03        ║");
-        System.out.println("║                                            ║");
+        System.out.println("║  Multi-Client Weather Broadcasting System ║");
         System.out.println("╚════════════════════════════════════════════╝\n");
     }
     
