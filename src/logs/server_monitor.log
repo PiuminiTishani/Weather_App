@@ -888,3 +888,293 @@
 [2025-11-12 19:29:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
 [2025-11-12 19:29:36] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
 [2025-11-12 19:29:36] [API_SUCCESS] Weather API fetch successful | Broadcast #13 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:30:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:30:06] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:30:06] [API_SUCCESS] Weather API fetch successful | Broadcast #14 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:30:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:30:36] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:30:36] [API_SUCCESS] Weather API fetch successful | Broadcast #15 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:31:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:31:06] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:31:06] [API_SUCCESS] Weather API fetch successful | Broadcast #16 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:31:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:31:36] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:31:36] [API_SUCCESS] Weather API fetch successful | Broadcast #17 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:32:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:32:06] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:32:06] [API_SUCCESS] Weather API fetch successful | Broadcast #18 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:32:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:32:36] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:32:36] [API_SUCCESS] Weather API fetch successful | Broadcast #19 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:33:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:33:06] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:33:07] [API_SUCCESS] Weather API fetch successful | Broadcast #20 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:33:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:33:37] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 19:33:37] [API_SUCCESS] Weather API fetch successful | Broadcast #21 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:34:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:34:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:34:07] [API_SUCCESS] Weather API fetch successful | Broadcast #22 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:34:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:34:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:34:37] [API_SUCCESS] Weather API fetch successful | Broadcast #23 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:35:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:35:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:35:07] [API_SUCCESS] Weather API fetch successful | Broadcast #24 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:35:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:35:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:35:37] [API_SUCCESS] Weather API fetch successful | Broadcast #25 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:36:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:36:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:36:07] [API_SUCCESS] Weather API fetch successful | Broadcast #26 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:36:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:36:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:36:37] [API_SUCCESS] Weather API fetch successful | Broadcast #27 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:37:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:37:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:37:07] [API_SUCCESS] Weather API fetch successful | Broadcast #28 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:37:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:37:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:37:37] [API_SUCCESS] Weather API fetch successful | Broadcast #29 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:38:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:38:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:38:07] [API_SUCCESS] Weather API fetch successful | Broadcast #30 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:38:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:38:37] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 19:38:37] [API_SUCCESS] Weather API fetch successful | Broadcast #31 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:39:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:39:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:39:07] [API_SUCCESS] Weather API fetch successful | Broadcast #32 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:39:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:39:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:39:37] [API_SUCCESS] Weather API fetch successful | Broadcast #33 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:40:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:40:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:40:07] [API_SUCCESS] Weather API fetch successful | Broadcast #34 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:40:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:40:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:40:37] [API_SUCCESS] Weather API fetch successful | Broadcast #35 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:41:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:41:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:41:07] [API_SUCCESS] Weather API fetch successful | Broadcast #36 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:41:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:41:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:41:37] [API_SUCCESS] Weather API fetch successful | Broadcast #37 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:42:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:42:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:42:07] [API_SUCCESS] Weather API fetch successful | Broadcast #38 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:42:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:42:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:42:37] [API_SUCCESS] Weather API fetch successful | Broadcast #39 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:43:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:43:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:43:07] [API_SUCCESS] Weather API fetch successful | Broadcast #40 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:43:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:43:38] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 19:43:38] [API_SUCCESS] Weather API fetch successful | Broadcast #41 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:44:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:44:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:44:08] [API_SUCCESS] Weather API fetch successful | Broadcast #42 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:44:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:44:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:44:38] [API_SUCCESS] Weather API fetch successful | Broadcast #43 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:45:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:45:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:45:08] [API_SUCCESS] Weather API fetch successful | Broadcast #44 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:45:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:45:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:45:38] [API_SUCCESS] Weather API fetch successful | Broadcast #45 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:46:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:46:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:46:08] [API_SUCCESS] Weather API fetch successful | Broadcast #46 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:46:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:46:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:46:38] [API_SUCCESS] Weather API fetch successful | Broadcast #47 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:47:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:47:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:47:08] [API_SUCCESS] Weather API fetch successful | Broadcast #48 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:47:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:47:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:47:38] [API_SUCCESS] Weather API fetch successful | Broadcast #49 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:48:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:48:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:48:08] [API_SUCCESS] Weather API fetch successful | Broadcast #50 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:48:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:48:38] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 19:48:38] [API_SUCCESS] Weather API fetch successful | Broadcast #51 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:49:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:49:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:49:08] [API_SUCCESS] Weather API fetch successful | Broadcast #52 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:49:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:49:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:49:38] [API_SUCCESS] Weather API fetch successful | Broadcast #53 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:50:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:50:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:50:08] [API_SUCCESS] Weather API fetch successful | Broadcast #54 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:50:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:50:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:50:38] [API_SUCCESS] Weather API fetch successful | Broadcast #55 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:51:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:51:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:51:08] [API_SUCCESS] Weather API fetch successful | Broadcast #56 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:51:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:51:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:51:38] [API_SUCCESS] Weather API fetch successful | Broadcast #57 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:52:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:52:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:52:08] [API_SUCCESS] Weather API fetch successful | Broadcast #58 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:52:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:52:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:52:38] [API_SUCCESS] Weather API fetch successful | Broadcast #59 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:53:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:53:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:53:08] [API_SUCCESS] Weather API fetch successful | Broadcast #60 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:53:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 0
+[2025-11-12 19:53:43] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 1
+[2025-11-12 19:53:43] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 19:53:43] [API_SUCCESS] Weather API fetch successful | Broadcast #61 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:54:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 1
+[2025-11-12 19:54:18] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 2
+[2025-11-12 19:54:18] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 19:54:18] [API_SUCCESS] Weather API fetch successful | Broadcast #62 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:54:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 2
+[2025-11-12 19:54:53] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 3
+[2025-11-12 19:54:53] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 19:54:53] [API_SUCCESS] Weather API fetch successful | Broadcast #63 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:55:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 3
+[2025-11-12 19:55:28] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 4
+[2025-11-12 19:55:28] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 19:55:28] [API_SUCCESS] Weather API fetch successful | Broadcast #64 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:55:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 4
+[2025-11-12 19:56:03] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 5
+[2025-11-12 19:56:03] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 19:56:03] [API_SUCCESS] Weather API fetch successful | Broadcast #65 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:56:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:56:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:56:37] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 19:56:37] [API_SUCCESS] Weather API fetch successful | Broadcast #66 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:57:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:57:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:57:07] [API_SUCCESS] Weather API fetch successful | Broadcast #67 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:57:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:57:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:57:37] [API_SUCCESS] Weather API fetch successful | Broadcast #68 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:58:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:58:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:58:07] [API_SUCCESS] Weather API fetch successful | Broadcast #69 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:58:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:58:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:58:37] [API_SUCCESS] Weather API fetch successful | Broadcast #70 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:59:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:59:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:59:07] [API_SUCCESS] Weather API fetch successful | Broadcast #71 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 19:59:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 19:59:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 19:59:37] [API_SUCCESS] Weather API fetch successful | Broadcast #72 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:00:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 20:00:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:00:07] [API_SUCCESS] Weather API fetch successful | Broadcast #73 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:00:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 20:00:37] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:00:37] [API_SUCCESS] Weather API fetch successful | Broadcast #74 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:01:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 20:01:07] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:01:07] [API_SUCCESS] Weather API fetch successful | Broadcast #75 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:01:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 5
+[2025-11-12 20:01:49] [API_FAILURE] Weather API fetch failed | Reason: Network error: api.openweathermap.org | Total failures: 6
+[2025-11-12 20:01:49] [ALERT] Weather API fetch failed: Network error: api.openweathermap.org
+[2025-11-12 20:01:49] [API_SUCCESS] Weather API fetch successful | Broadcast #76 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:02:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 6
+[2025-11-12 20:02:24] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 7
+[2025-11-12 20:02:24] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 20:02:24] [API_SUCCESS] Weather API fetch successful | Broadcast #77 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:02:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 7
+[2025-11-12 20:02:59] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 8
+[2025-11-12 20:02:59] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 20:02:59] [API_SUCCESS] Weather API fetch successful | Broadcast #78 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:03:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 8
+[2025-11-12 20:03:34] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 9
+[2025-11-12 20:03:34] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 20:03:34] [API_SUCCESS] Weather API fetch successful | Broadcast #79 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:03:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:04:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:04:08] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 20:04:08] [API_SUCCESS] Weather API fetch successful | Broadcast #80 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:04:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:04:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:04:38] [API_SUCCESS] Weather API fetch successful | Broadcast #81 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:05:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:05:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:05:08] [API_SUCCESS] Weather API fetch successful | Broadcast #82 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:05:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:05:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:05:38] [API_SUCCESS] Weather API fetch successful | Broadcast #83 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:06:05] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:06:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:06:08] [API_SUCCESS] Weather API fetch successful | Broadcast #84 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:06:35] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:06:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:06:38] [API_SUCCESS] Weather API fetch successful | Broadcast #85 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:07:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:07:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:07:08] [API_SUCCESS] Weather API fetch successful | Broadcast #86 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:07:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:07:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:07:38] [API_SUCCESS] Weather API fetch successful | Broadcast #87 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:08:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:08:08] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:08:08] [API_SUCCESS] Weather API fetch successful | Broadcast #88 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:08:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:08:38] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:08:38] [API_SUCCESS] Weather API fetch successful | Broadcast #89 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:09:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:09:11] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 20:09:11] [API_SUCCESS] Weather API fetch successful | Broadcast #90 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:09:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:09:41] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:09:41] [API_SUCCESS] Weather API fetch successful | Broadcast #91 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:10:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:10:11] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:10:11] [API_SUCCESS] Weather API fetch successful | Broadcast #92 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:10:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:10:41] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:10:41] [API_SUCCESS] Weather API fetch successful | Broadcast #93 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:11:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:11:11] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:11:11] [API_SUCCESS] Weather API fetch successful | Broadcast #94 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:11:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:11:41] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:11:41] [API_SUCCESS] Weather API fetch successful | Broadcast #95 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:12:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:12:11] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:12:11] [API_SUCCESS] Weather API fetch successful | Broadcast #96 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:12:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:12:41] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:12:41] [API_SUCCESS] Weather API fetch successful | Broadcast #97 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:13:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:13:11] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:13:11] [API_SUCCESS] Weather API fetch successful | Broadcast #98 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:13:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:13:41] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:13:41] [API_SUCCESS] Weather API fetch successful | Broadcast #99 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:14:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 9
+[2025-11-12 20:14:22] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 10
+[2025-11-12 20:14:22] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 20:14:22] [API_SUCCESS] Weather API fetch successful | Broadcast #100 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:14:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 10
+[2025-11-12 20:14:57] [API_FAILURE] Weather API fetch failed | Reason: API request timeout | Total failures: 11
+[2025-11-12 20:14:57] [ALERT] Weather API fetch failed: API request timeout
+[2025-11-12 20:14:57] [API_SUCCESS] Weather API fetch successful | Broadcast #101 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:15:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 11
+[2025-11-12 20:15:30] [API_SUCCESS] Weather API fetch successful | Weather data fetched successfully for London
+[2025-11-12 20:15:30] [API_SUCCESS] Weather API fetch successful | Broadcast #102 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:15:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 11
+[2025-11-12 20:16:00] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:16:00] [API_SUCCESS] Weather API fetch successful | Broadcast #103 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:16:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 11
+[2025-11-12 20:16:30] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:16:30] [API_SUCCESS] Weather API fetch successful | Broadcast #104 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:16:36] [MONITORING] Periodic check | Active clients: 1 | API failures: 11
+[2025-11-12 20:17:00] [API_SUCCESS] Weather API fetch successful | Weather data retrieved from cache for London
+[2025-11-12 20:17:00] [API_SUCCESS] Weather API fetch successful | Broadcast #105 completed: 1 successful, 0 failed, 1 total clients
+[2025-11-12 20:17:06] [MONITORING] Periodic check | Active clients: 1 | API failures: 11
